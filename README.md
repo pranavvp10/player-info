@@ -4,7 +4,9 @@
 
 [Docs](https://pranavvp10.github.io/player-info/)
 
-[img](https://i.imgur.com/3XQvnGe.png)
+![](https://i.imgur.com/3XQvnGe.png)
+
+![](https://i.imgur.com/RtoVj07.png)
 
 ## Quick start
 
