@@ -1,7 +1,7 @@
 # Football Player Info App
 
 [link to app](https://football-player-info.herokuapp.com/)
-[Docs}(https://pranavvp10.github.io/player-info/)
+[Docs](https://pranavvp10.github.io/player-info/)
 
 ## Quick start
 
