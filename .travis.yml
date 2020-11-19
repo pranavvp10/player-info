@@ -6,4 +6,4 @@ cache:
   directories:
     - node_modules
 script:
-  - CI=false npm run build
+  - npm run build
