@@ -4,6 +4,8 @@
 
 [Docs](https://pranavvp10.github.io/player-info/)
 
+[img](https://i.imgur.com/3XQvnGe.png)
+
 ## Quick start
 
 #### clone this repo
